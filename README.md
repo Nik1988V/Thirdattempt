@@ -1,2 +1,2 @@
-# Thirdattempt
-Take 3
+# MyRepoNik
+Fintech
